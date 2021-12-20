@@ -1,0 +1,16 @@
+reto5\backend\services\UserService.class
+reto5\backend\controllers\UserController.class
+reto5\backend\controllers\LaptopController.class
+reto5\backend\models\Laptop.class
+reto5\backend\Reto5Application.class
+reto5\backend\repositories\crud\IUserCrudRepository.class
+reto5\backend\controllers\OrderController.class
+reto5\backend\models\Order.class
+reto5\backend\repositories\crud\ILaptopCrudRepository.class
+reto5\backend\repositories2\LaptopRepository.class
+reto5\backend\services\LaptopService.class
+reto5\backend\services\OrderService.class
+reto5\backend\repositories\crud\IOrderCrudRepository.class
+reto5\backend\models\User.class
+reto5\backend\repositories2\OrderRepository.class
+reto5\backend\repositories2\UserRepository.class
